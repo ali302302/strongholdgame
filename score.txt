@@ -1,0 +1,3 @@
+Turn: 0, Population: 1000, Food: 100, Soldiers: 100, Wealth: 1000, Influence: 50, Reserves: 5000, Last Event: -1, Morale: 50, Education: 50
+Turn: 0, Population: 1265, Food: 100, Soldiers: 100, Wealth: 1000, Influence: 50, Reserves: 5000, Last Event: -1, Morale: 50, Education: 50
+Turn: 0, Population: 1000, Food: 100, Soldiers: 100, Wealth: 1000, Influence: 50, Reserves: 5000, Last Event: -1, Morale: 50, Education: 50
